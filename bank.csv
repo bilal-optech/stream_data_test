@@ -3,6 +3,8 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 56,admin.,married,secondary,no,45,no,no,unknown,5,may,1467,1,-1,0,unknown,yes
 37,technician,married,secondary,no,1,yes,no,unknown,6,may,608,1,-1,0,unknown,yes
 37,bilal,married,secondary,no,1,yes,no,unknown,6,may,608,1,-1,0,unknown,yes
+38,kim,married,secondary,no,1,yes,no,unknown,6,may,608,1,-1,0,unknown,yes
+
 
 
 
